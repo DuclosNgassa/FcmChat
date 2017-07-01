@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "294616155742",
+    "firebase_url": "https://ebele-170917.firebaseio.com",
+    "project_id": "ebele-170917",
+    "storage_bucket": "ebele-170917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294616155742:android:d918d57541c5bb60",
+        "android_client_info": {
+          "package_name": "info.softsolution.ebele"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294616155742-cog1ttbd56dlecofkfqurqrcl7aj4drp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.softsolution.ebele",
+            "certificate_hash": "4ad57d0f045ad6c9b0aaa74e650aa135c0a0e731"
+          }
+        },
+        {
+          "client_id": "294616155742-irt5dlap4c4sgdcu2g045m5tmfngk0vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsIqAw578Bg64WFtqpiutWqc3wSitIgmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294616155742-irt5dlap4c4sgdcu2g045m5tmfngk0vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
